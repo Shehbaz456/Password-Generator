@@ -1,5 +1,3 @@
-
-
 // // Super_Strong_Password
 function Super_Strong_Password(){
     let chars = "qwertyuiopasdfghjklzxcvbnm1234567890#$%^&*!{}()@ASDFGHJKLZXCVBNMQWERTYUIOP";
